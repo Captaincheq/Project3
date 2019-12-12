@@ -1,0 +1,24 @@
+{
+  "name": "mailgun",
+  "version": "1.0.0",
+  "description": "<p align=\"left\"><img alt=\"Huzhou Univerity\" src=\"http://www.indeed.com/cmp/_s/logos/52523796db7dd9ba\"></p>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "i": "^0.3.6",
+    "mailgun-js": "^0.22.0",
+    "nodemailer": "^5.1.1",
+    "nodemailer-mailgun-transport": "^1.4.0",
+    "npm": "^6.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
