@@ -21,5 +21,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Captaincheq/Project3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Captaincheq/Project3/issues"
+  },
+  "homepage": "https://github.com/Captaincheq/Project3#readme"
 }
